@@ -4,7 +4,8 @@
   "description": "Memebers Area",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vite",
+    "build": "tsc && vite build"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/RGgt/members-area/issues"
   },
-  "homepage": "https://github.com/RGgt/members-area#readme"
+  "homepage": "https://github.com/RGgt/members-area#readme",
+  "dependencies": {
+    "firebase": "^9.15.0",
+    "typescript": "^4.9.4",
+    "vite": "^4.0.3"
+  }
 }
