@@ -1,0 +1,19 @@
+{
+  "name": "members-area",
+  "version": "1.0.0",
+  "description": "Memebers Area",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RGgt/members-area.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RGgt/members-area/issues"
+  },
+  "homepage": "https://github.com/RGgt/members-area#readme"
+}
